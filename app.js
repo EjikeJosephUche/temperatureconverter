@@ -28,7 +28,6 @@ const TemperatureConverter = {
   }
 };
 
-// Example usage (optional - only for testing/demo)
 // console.log("25°C to °F:", TemperatureConverter.celsiusToFahrenheit(25));
 // console.log("25°C to K:", TemperatureConverter.celsiusToKelvin(25));
 // console.log("77°F to °C:", TemperatureConverter.fahrenheitToCelsius(77));
